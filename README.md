@@ -8,7 +8,7 @@ A shell script that installs the whole webserver stack for you!
     
 ## Running the script
 1. Make sure you are running the script as root. If not, the script will not work. (`sudo su`)
-2. Download the installer using `wget (insert el link here)`
+2. Download the installer using `wget https://github.com/syszelj9/stack-install/blob/main/installer.sh`
 3. Run the install script by doing `sh installer.sh`
 4. MAKE SURE TO FULLY READ EVERYTHING ON SCREEN. IF YOU ENTER AN INVALID OPTION, THE SCRIPT WILL EXIT
 5. Enter the required information
